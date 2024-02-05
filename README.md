@@ -10,3 +10,12 @@
  - ¿Por qué los usuarios abandonan? 
 
  - ¿Cuándo abandonan los usuarios? 
+
+
+## conenido 
+
+## codigo python 
+
+## Resumenes 
+- 1.- Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
+- 2.- Propuesta de proyecto Waze
