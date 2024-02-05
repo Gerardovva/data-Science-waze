@@ -14,8 +14,10 @@
 
 ## conenido 
 
-## codigo python 
+## codigo
 
 ## Resumenes 
 - 1.- Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
 - 2.- Propuesta de proyecto Waze
+
+## Diccionario de datos 
