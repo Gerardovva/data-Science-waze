@@ -15,9 +15,14 @@
 ## conenido 
 
 ## codigo
+- 1. Inspeccion y preparacion de datos
+- 2. Analisis exploratorio (EDA)
 
 ## Resumenes 
-- 1.- Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
-- 2.- Propuesta de proyecto Waze
+- Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
+- Propuesta de proyecto Waze
+- Resumen ejecutivo 1
+- Resumen ejecutivo 2
 
 ## Diccionario de datos 
+Diccionario de datos
