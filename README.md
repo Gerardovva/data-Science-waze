@@ -17,12 +17,14 @@
 ## codigo
 - 1. Inspeccion y preparacion de datos
 - 2. Analisis exploratorio (EDA)
+- 3. Exploración de datos y prueba de hipótesis
 
 ## Resumenes 
 - Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
 - Propuesta de proyecto Waze
 - Resumen ejecutivo 1
 - Resumen ejecutivo 2
+- Resumen ejecutivo 3
 
 ## Diccionario de datos 
 Diccionario de datos
