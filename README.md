@@ -18,6 +18,7 @@
 - 1. Inspeccion y preparacion de datos
 - 2. Analisis exploratorio (EDA)
 - 3. Exploración de datos y prueba de hipótesis
+- 
 
 ## Resumenes 
 - Estrategia PACE(Planificar,Analizar,Construir,Ejecutar)
